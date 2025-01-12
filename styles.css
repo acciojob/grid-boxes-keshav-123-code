@@ -1,5 +1,4 @@
 /*  your css code here. If applicable */
-/*  your css code here. If applicable */
 #grid {
 	display: grid;
 	gap: 10px;
@@ -59,5 +58,5 @@
 	grid-column: span 3 / auto;
 	background-color: green;
 	/* border: 1px solid black; */
-	text-align: center;
+	text-align: center;
 }
